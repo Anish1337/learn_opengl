@@ -1,2 +1,2 @@
-# learn-opengl
-sandbox to learn the opengl library
+# learn_opengl
+* Progressing through the openGL [website](https://learnopengl.com)
